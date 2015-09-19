@@ -23,3 +23,4 @@ And also:
 http://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2013/08/Schematics-Led-Cube.png)
 
 The wiring diagram is taking from [this](http://randomnerdtutorials.com/arduino-led-cube-3x3x3/) website.
+I didn't wire the my anode and cathode connections to the same pins, due to me using a different board, but the resistor and transistor configurations are the same as shown above.
