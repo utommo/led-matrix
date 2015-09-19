@@ -15,9 +15,9 @@ The matrix consists of 27 leds, which are powered by 12 pins.
 The Arduino used to control the circuit is an Arduino Pro Mini.
 And also:
 
-3x 22k ohm Resistors
-9x 220 ohm Resistors
-3x 2N2222 NPN Transistors
+- 3x 22k ohm Resistors
+- 9x 220 ohm Resistors
+- 3x 2N2222 NPN Transistors
 
 ![wiringdiagram](
 http://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2013/08/Schematics-Led-Cube.png)
