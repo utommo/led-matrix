@@ -18,3 +18,8 @@ And also:
 3x 22k ohm Resistors
 9x 220 ohm Resistors
 3x 2N2222 NPN Transistors
+
+![wiringdiagram](
+http://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2013/08/Schematics-Led-Cube.png)
+
+The wiring diagram is taking from [this](http://randomnerdtutorials.com/arduino-led-cube-3x3x3/) website.
